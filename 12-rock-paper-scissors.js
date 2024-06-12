@@ -9,7 +9,7 @@ function startPlay(){
 }
 
 function exitGame(){
-  window.location.href='12-rock-paper-scissors.html';
+  window.location.href='index.html';
 }
 
 updateScoreElement();
